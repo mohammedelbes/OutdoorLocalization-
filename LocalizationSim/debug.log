@@ -1,0 +1,6 @@
+[0328/161320:ERROR:client_util.cc(315)] Failed to load Chrome DLL from 0043FBE0
+[0328/161320:ERROR:client_util.cc(356)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+[0328/161323:ERROR:client_util.cc(315)] Failed to load Chrome DLL from 002EFA10
+[0328/161323:ERROR:client_util.cc(356)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
+[0328/161330:ERROR:client_util.cc(315)] Failed to load Chrome DLL from 0036F920
+[0328/161330:ERROR:client_util.cc(356)] Could not find exported function RelaunchChromeBrowserWithNewCommandLineIfNeeded
